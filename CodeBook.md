@@ -1,5 +1,5 @@
 ##CodeBook
-Description of the features included in the tidy dataset averageBySubjectActivity.
+Description of the features included in the tidy dataset "averageBySubjectActivity.txt".
 
 ###Identifiers
 
